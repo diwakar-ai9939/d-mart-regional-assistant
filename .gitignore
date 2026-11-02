@@ -1,0 +1,11 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+
+# Local logs and outputs
+logs/
+outputs/
